@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="images/Untitled.png" width="100")
+<img src="images/Untitled.png" width="500">
