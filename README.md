@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](images/Untitled.png)
+<img src="images/Untitled.png" width="100")
