@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="images/86303693_p2_master1200.jpg" width="1000">
+<img src="images/banner.png" width="1000">
 
 ##
