@@ -5,6 +5,7 @@
 🐝 I’m currently working on:  
 &emsp;&emsp;&emsp;🌸 random python projects to improve my knowledge    
 &emsp;&emsp;&emsp;🌸 school projects
+&emsp;&emsp;&emsp;🌸 learning aws
 <br/>
 <br/>
 <img src="images/4822-hitopotato-tired.gif" width="180">  
