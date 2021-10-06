@@ -4,7 +4,7 @@
 ✉️ yaninaptrv@gmail.com  
 🐝 I’m currently working on:  
 &emsp;&emsp;&emsp;🌸 random python projects to improve my knowledge    
-&emsp;&emsp;&emsp;🌸 school projects
+&emsp;&emsp;&emsp;🌸 school projects  
 &emsp;&emsp;&emsp;🌸 learning aws
 <br/>
 <br/>
