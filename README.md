@@ -17,6 +17,6 @@
 <img src="https://img.shields.io/badge/-NGINX-009639?logo=nginx&logoColor=fff"> <img src="https://img.shields.io/badge/-Apache-D22128?logo=apache&logoColor=fff"> 
 <img src="https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=fff"> <img src="https://img.shields.io/badge/-Ansible-EE0000?logo=ansible3&logoColor=fff">
 <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=fff"> <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=fff">
-<img src="https://img.shields.io/badge/-Terraform-844FBA?logo=terraform&logoColor=fff">
+<img src="https://img.shields.io/badge/-Terraform-844FBA?logo=terraform&logoColor=fff"> <img src="https://img.shields.io/badge/-puppet-222222?logo=puppet&logoColor=ffae1a">
 </p>
 
