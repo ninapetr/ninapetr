@@ -1,11 +1,12 @@
 ### Yanina Petrova  
 ##
-student  
-yaninaptrv@gmail.com  
-Currently working on:  
-&emsp;&emsp; random python projects   
-&emsp;&emsp; network automation with ansible and python  
-&emsp;&emsp; learning aws
+📚 Student  
+✉️ yaninaptrv@gmail.com  
+🐝 I’m currently working on:  
+&emsp;&emsp; 🌸 Network automation with Ansible Tower and Python    
+&emsp;&emsp; 🌸 Random Python projects  
+&emsp;&emsp; 🌸 Learning AWS  
+&emsp;&emsp; 🌸 Learning C++  
 <br/>
 <br/>
 ##
@@ -18,4 +19,3 @@ Currently working on:
 <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=fff"> <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=fff">
 <img src="https://img.shields.io/badge/-Terraform-844FBA?logo=terraform&logoColor=fff"> <img src="https://img.shields.io/badge/-puppet-222222?logo=puppet&logoColor=ffae1a">
 </p>
-
