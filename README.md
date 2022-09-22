@@ -3,12 +3,11 @@
 📚 student  
 ✉️ yaninaptrv@gmail.com  
 🐝 I’m currently working on:  
-&emsp;&emsp;&emsp;🌸 random python projects to improve my knowledge    
-&emsp;&emsp;&emsp;🌸 network automation with ansible and python  
-&emsp;&emsp;&emsp;🌸 learning aws
+&emsp;&emsp;&emsp; random python projects   
+&emsp;&emsp;&emsp; network automation with ansible and python  
+&emsp;&emsp;&emsp; learning aws
 <br/>
 <br/>
-<img src="images/4822-hitopotato-tired.gif" width="180">  
 ##
 <p float="left">
 <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff"> <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=fff">
