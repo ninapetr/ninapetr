@@ -1,11 +1,11 @@
 ### Yanina Petrova  
 ##
-📚 student
-✉️ yaninaptrv@gmail.com  
-🐝 I’m currently working on:  
-&emsp;&emsp;&emsp; random python projects   
-&emsp;&emsp;&emsp; network automation with ansible and python  
-&emsp;&emsp;&emsp; learning aws
+student
+yaninaptrv@gmail.com  
+Currently working on:  
+&emsp;&emsp; random python projects   
+&emsp;&emsp; network automation with ansible and python  
+&emsp;&emsp; learning aws
 <br/>
 <br/>
 ##
