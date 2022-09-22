@@ -1,6 +1,6 @@
 ### Yanina Petrova  
 ##
-📚 student  
+📚 student
 ✉️ yaninaptrv@gmail.com  
 🐝 I’m currently working on:  
 &emsp;&emsp;&emsp; random python projects   
